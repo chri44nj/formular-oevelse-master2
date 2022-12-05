@@ -1,0 +1,17 @@
+/* Dine styles her */
+form {
+  padding: 2rem;
+  background: hsl(264 30% 96%);
+  border-radius: 8px;
+}
+
+.form-felt {
+  display: grid;
+  margin-bottom: 1.2rem;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 1.2rem;
+}
+
+#beskedfelt {
+  min-width: 592px;
+}
